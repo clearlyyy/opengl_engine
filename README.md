@@ -1,3 +1,3 @@
 # opengl_engine
 
-```l```
+compile with gcc
